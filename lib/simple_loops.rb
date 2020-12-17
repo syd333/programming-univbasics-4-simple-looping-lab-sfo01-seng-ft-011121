@@ -22,6 +22,9 @@ while count < array.length do
   count += 1
 end
 end
+
+def return_string_array
+
 #def method_name(parameter)
   #count = 0
   #while count < (something)
