@@ -5,6 +5,7 @@ while count < 6
   puts string
   count += 1
 end
+end
 
 #def method_name(parameter)
   #count = 0
