@@ -14,6 +14,8 @@ while count < integer
   count += 1
 end
 end
+
+def output_array()
 #def method_name(parameter)
   #count = 0
   #while count < (something)
