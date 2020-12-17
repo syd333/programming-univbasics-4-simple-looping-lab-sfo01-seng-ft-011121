@@ -7,7 +7,7 @@ while count < 6
 end
 end
 
-def loop_message_n_times()
+def loop_message_n_times(string, integer)
 
 #def method_name(parameter)
   #count = 0
