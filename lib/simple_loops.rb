@@ -16,7 +16,7 @@ end
 end
 
 def output_array(array)
-
+while array 
 end
 #def method_name(parameter)
   #count = 0
