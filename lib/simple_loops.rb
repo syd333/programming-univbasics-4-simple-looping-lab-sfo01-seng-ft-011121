@@ -2,7 +2,8 @@
 def loop_message_five_times(string)
 count = 0
 while count < 6
-  puts ''
+  puts string
+  count += 1
 end
 
 #def method_name(parameter)
