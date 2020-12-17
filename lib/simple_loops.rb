@@ -28,6 +28,7 @@ count = 0
 while count < array.length do
   puts array[count].to_s
   count +=1
+  array
 end
 end
 
