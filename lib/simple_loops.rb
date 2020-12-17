@@ -28,8 +28,8 @@ count = 0
 while count < array.length do
   array[count] = array[count].to_s
   count +=1
-  puts array
 end
+array 
 end
 
 #def method_name(parameter)
